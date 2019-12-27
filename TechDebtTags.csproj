@@ -8,6 +8,8 @@
         <PackageProjectUrl>https://github.com/nicostouch/tech_debt_tags_dotnet</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/nicostouch/tech_debt_tags_dotnet/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/nicostouch/tech_debt_tags_dotnet</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
 </Project>
