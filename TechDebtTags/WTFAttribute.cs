@@ -6,10 +6,12 @@ namespace TechDebtTags
     public class WTFAttribute : BaseTechnicalDebtAttribute
     {
         public string Confusion { get; private set; }
+        public string Explanation { get; private set; }
 
-        public WTFAttribute(string confusion = "")
+        public WTFAttribute(string confusion = "", string explanation = "")
         {
             Confusion = confusion;
+            Explanation = explanation;
         }
     }
 }
