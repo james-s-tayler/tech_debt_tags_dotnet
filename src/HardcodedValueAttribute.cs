@@ -7,7 +7,7 @@ namespace TechDebtTags
     {
         public string Value { get; private set; }
 
-        protected HardcodedValueAttribute(string value)
+        public HardcodedValueAttribute(string value)
         {
             Value = value;
         }
