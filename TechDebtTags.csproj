@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Title>TechDebtTags.NET</Title>
+        <Authors>James Tayler</Authors>
+        <Description>Attributes to help you annotate technical debt items in. the code base</Description>
+        <PackageProjectUrl>https://github.com/nicostouch/tech_debt_tags_dotnet</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/nicostouch/tech_debt_tags_dotnet/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/nicostouch/tech_debt_tags_dotnet</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
